@@ -6,7 +6,7 @@ oh-my-git [aur] [git]
 
 Color Scheme for Gnome Terminal [git](http://mayccoll.github.io/Gogh/)
 
-[python-themer](https://aur.archlinux.org/packages/python-themer-git/)
+python-themer - match color theme w/ wallpaper [git](https://aur.archlinux.org/packages/python-themer-git/)
 
 source-highlight [main]
 
