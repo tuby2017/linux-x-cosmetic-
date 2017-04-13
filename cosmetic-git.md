@@ -64,7 +64,6 @@ one-line [gnome-look](https://www.gnome-look.org/content/show.php/Conky+scripts?
 / [dot-share](http://dotshare.it/dots/357/) 
 / [arch-forum](https://bbs.archlinux.org/viewtopic.php?id=48135)
 
-ref: aur, devianrt, http://techpctricks.com/linux-conky-themes/
 
 
 else...
