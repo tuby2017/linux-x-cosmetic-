@@ -1,0 +1,15 @@
+disable scrollbar autohidehttps://forum.xfce.org/viewtopic.php?id=9540
+~.bashrcexport GTK_OVERLAY_SCROLLING=0
+
+
+mpv scrollbar https://github.com/mpv-player/mpv/blob/master/DOCS/man/osc.rsttouch
+$HOME/.config/mpv/lua-settings/osc.confecho "layout=slimbox" >> osc.conf    
+Default: bottombar    other: box, slimbox and topbar. Used to be 'box'.
+
+
+for themeing issue debug gtk+
+$ GTK_MODULES=gtkparasite appname 
+or $ GTK_DEBUG=interactive [gtk+ app] 
+
+$ gvfs-info -a "standard::icon" [file] for missing icon for files
+mimetype type for folders are fixed cant changed for most cases
