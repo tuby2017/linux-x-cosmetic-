@@ -7,7 +7,6 @@ wm
   way-cooler -wayland -rust -lua
   pantheon-workarounds -gala -elementary os -wm
 
-  
 wall
 ---
   xss -screen-lock/saver -cli
